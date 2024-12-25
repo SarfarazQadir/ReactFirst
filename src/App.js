@@ -5,7 +5,7 @@ import { Login, Signup } from './Screens';
 function App() {
   return (
     <>
-      <Signup/>
+      <Login/>
     </>
   );
 }
