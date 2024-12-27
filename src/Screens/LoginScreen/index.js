@@ -36,7 +36,9 @@ const Login = () => {
         {/* Switch to Signup */}
         <div className="text-center mt-3">
         {/* <Link to={"/"} >Don't have an account? Sign Up</Link>  */}
-        <Link to={"/signup"} >Don't have an account? Sign Up</Link>
+        <Link to="/signup">
+        Don't have an account? Sign Up
+        </Link>
          {/* <a href="/signup" className="btn btn-link">Don't have an account? Sign Up</a> */}
         </div>
       </div>

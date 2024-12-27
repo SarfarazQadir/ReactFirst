@@ -40,7 +40,7 @@ const Signup = () => {
       {/* Switch to Login */}
       <div className="text-center mt-3">
         <p className="text-muted">Already have an account?</p>
-        <a href="/login" className="btn btn-link text-primary">Login</a>
+        <a href="/" className="btn btn-link text-primary">Login</a>
       </div>
     </div>
   </div>  )
