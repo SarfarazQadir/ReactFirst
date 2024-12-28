@@ -4,7 +4,7 @@ import { LoginScreen, SignupScreen } from "../Screen";
 
 function AppRoutes() {
   return (
-    <Router>
+    <Router>  
       <Routes>
         <Route path="/" element={<LoginScreen />} />
         <Route path="/signup" element={<SignupScreen />} />
